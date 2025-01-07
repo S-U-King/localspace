@@ -1,6 +1,10 @@
 # localspace
 my first repository
 
+# git setup account configurations
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
 # cammands
 
 git clone "repository link"
