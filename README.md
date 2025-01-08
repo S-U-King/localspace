@@ -4,6 +4,7 @@ my first repository
 # git setup account configurations
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
+git config --global user.password "Your.password"
 
 # cammands
 
